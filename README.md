@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonardo S. Bomfim
-- 👀 I’m interested in ... Become a frontend developer
+- 👀 I’m interested in ... Become a front-end developer
 - 🌱 I’m currently learning ... HTML5, CSS3 and Javascript
 - 💞️ I’m looking to collaborate on ... ontribute to the community
 
