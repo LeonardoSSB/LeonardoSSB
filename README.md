@@ -1,7 +1,7 @@
  <h1>Olá, eu sou o Leonardo! 💞️</h1> 
  
 - 👀 I’m interested in ... Become a front-end developer
-- 🌱 I’m currently learning ... HTML5, CSS3 and Javascript
+- 🌱 I’m currently learning ... Javacript and React
 - 💞️ I’m looking to collaborate on ... Contribute to the community
 
 <!---
