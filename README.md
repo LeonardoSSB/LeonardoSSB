@@ -1,4 +1,4 @@
- <h1>Olá, eu sou o Leonardo!</h1> 💞️
+ <h1>Olá, eu sou o Leonardo! 💞️</h1> 
  
 - 👀 I’m interested in ... Become a front-end developer
 - 🌱 I’m currently learning ... HTML5, CSS3 and Javascript
