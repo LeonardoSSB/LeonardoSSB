@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Leonardo+Soares+Bomfim+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&width=435&lines=Leonardo+Soares+Bomfim+Silva)](https://git.io/typing-svg)
 
-Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na Fam e com 21 Anos, e cada dia aprendendo algo novo para trazer o melhor para me tornar um profissional melhor.
+Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na Fam, com 21 Anos, e cada dia aprendendo algo novo para trazer o melhor para me tornar um profissional melhor.
 
 ### Habilidades
 - HTML5 e CSS3
