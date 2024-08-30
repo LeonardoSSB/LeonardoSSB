@@ -21,7 +21,7 @@ Possuo objetivo de cada dia me tornar um desenvolvedor melhor, aonde eu possa co
   
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leubomfim&bg_color=30,000000,5086FA&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,5086FA,000000&title_color=fff&text_color=fff"/>
 </div>
 
 ###
@@ -34,6 +34,7 @@ Possuo objetivo de cada dia me tornar um desenvolvedor melhor, aonde eu possa co
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />      
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 #
