@@ -20,7 +20,7 @@ Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na 
 Possuo objetivo de cada dia me tornar um desenvolvedor melhor, aonde eu possa contribuir com projetos e entregar a melhor experiência para o usuário.
   
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leubomfim&bg_color=30,000000,FF1261&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leubomfim&bg_color=30,000000,5086FA&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
 </div>
 
