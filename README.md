@@ -17,11 +17,8 @@ Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na 
 - 🎮 Jogos de vídeo game e séries/filmes como forma de entretenimento e desafio
 
 ### Objetivos
-Estou ansiosa para contribuir para projetos desafiadores, aprender continuamente e compartilhar conhecimentos com a comunidade. 
-
-#### Sinta-se à vontade para me contatar para discussões sobre tecnologia, colaborações em projetos ou apenas para compartilhar suas próprias experiências no mundo da programação. Estou sempre aberta a novas oportunidades e conexões!
+Possuo objetivo de cada dia me tornar um desenvolvedor melhor, aonde eu possa contribuir com projetos e entregar a melhor experiência para o usuário.
   
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leubomfim&bg_color=30,000000,FF1261&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
@@ -35,7 +32,8 @@ Estou ansiosa para contribuir para projetos desafiadores, aprender continuamente
 <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />      
 </div>
 
 #
