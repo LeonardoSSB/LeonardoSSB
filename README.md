@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=00ff21&multiline=true&repeat=false&width=550&height=70&lines=Gabriela+Vieira+dos+Santos+Vaz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Leonardo+Soares+Bomfim+Silva)](https://git.io/typing-svg)
 
 Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na Fam e com 21 Anos, e cada dia aprendendo algo novo para trazer o melhor para me tornar um profissional melhor.
 
