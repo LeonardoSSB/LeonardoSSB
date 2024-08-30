@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&width=435&lines=Leonardo+Soares+Bomfim+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&width=435&lines=Leonardo+Soares+Bomfim+Silva)](https://git.io/typing-svg)
 
 Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na Fam, com 21 Anos, e cada dia aprendendo algo novo para trazer o melhor para me tornar um profissional melhor.
 
@@ -21,8 +21,8 @@ Estou ansiosa para contribuir para projetos desafiadores, aprender continuamente
   
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabivsv&bg_color=30,000000,FF1261&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivsv&layout=compact&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leubomfim&bg_color=30,000000,FF1261&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
 </div>
 
 ###
@@ -32,8 +32,6 @@ Estou ansiosa para contribuir para projetos desafiadores, aprender continuamente
 <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 </div>
