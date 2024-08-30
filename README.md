@@ -6,8 +6,10 @@ Olá, eu sou a Leonardo! Estudante de Análise e Desenvolvimento de Sistemas na 
 - HTML5 e CSS3
 - JavaScript
 - React
-- Python
-- MySQL
+- NextJs
+- Styled-Components
+- Typescript
+- Tailwind Css
 
 ### Hobbies
 
