@@ -24,7 +24,7 @@ Possuo objetivo de cada dia me tornar um desenvolvedor melhor, aonde eu possa co
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leubomfim&layout=compact&langs_count-16&bg_color=30,5086FA,000000&title_color=fff&text_color=fff"/>
 </div>
 
-<div>
+<div style="display: flex; justify-content: center; width: 100%;">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leubomfim&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
